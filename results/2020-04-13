@@ -1,0 +1,5 @@
+Script started on Mon Apr 13 22:45:17 2020
+command: 22:45:17.txt npx nodemon src/pattern-generators/repeating-sequences.js 40 94
+script: 22:45:17.txt: No such file or directory
+
+Script done on Mon Apr 13 22:45:17 2020
